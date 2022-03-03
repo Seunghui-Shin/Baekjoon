@@ -1,2 +1,2 @@
-# baekjoon
-baekjoon c++
+# Baekjoon
+Baekjoon c++
