@@ -6,6 +6,7 @@ int n, k,max_k=0;
 stack<int> st;
 vector<char> v;
 bool check = false;
+
 int main() {
     cin >> n;
     for (int i = 0;i < n;i++) {
